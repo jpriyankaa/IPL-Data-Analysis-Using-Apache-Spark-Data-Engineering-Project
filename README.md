@@ -247,9 +247,7 @@ plt.tight_layout()
 plt.show()
 ```
 
-### **3.
-
- Average Runs in Winning Matches**
+### **3. Average Runs in Winning Matches**
 
 A bar plot displaying the top batsmen based on average runs scored in winning matches:
 
